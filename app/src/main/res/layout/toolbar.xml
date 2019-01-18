@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center_vertical"
+    android:background="#fcc8c9"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:text="오늘의 전화"
+        android:id="@+id/title"
+        android:textSize="30sp"
+        android:textColor="#FFF"
+        android:gravity="center"
+        android:layout_marginLeft="17dp"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:textStyle="bold"
+        />
+
+
+
+</RelativeLayout>
+
